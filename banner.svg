@@ -1,0 +1,27 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4dd0e1"/>
+      <stop offset="50%" stop-color="#81c784"/>
+      <stop offset="100%" stop-color="#ffd54f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" rx="16" fill="url(#bg)"/>
+  <text x="600" y="100" font-family="PingFang SC, Microsoft YaHei, sans-serif"
+        font-size="44" font-weight="bold" fill="url(#title)" text-anchor="middle">
+    生物信息知识学习与代码实践
+  </text>
+  <text x="600" y="155" font-family="PingFang SC, Microsoft YaHei, sans-serif"
+        font-size="22" fill="#b0bec5" text-anchor="middle">
+    Bioinformatics Learning &amp; Code Practice — 毕业设计
+  </text>
+  <circle cx="80" cy="40" r="6" fill="#4dd0e1" opacity="0.6"/>
+  <circle cx="1120" cy="180" r="8" fill="#81c784" opacity="0.6"/>
+  <circle cx="150" cy="180" r="5" fill="#ffd54f" opacity="0.5"/>
+  <circle cx="1080" cy="50" r="5" fill="#4dd0e1" opacity="0.5"/>
+</svg>
